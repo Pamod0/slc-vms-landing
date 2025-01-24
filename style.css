@@ -86,3 +86,59 @@ button {
 .chat-icon {
     max-width: 150px;
 }
+
+.panel {
+    display: none;
+}
+.panel-title {
+    position: relative;
+    display: block;
+    cursor: pointer;
+}
+.panel-title label {
+    cursor: pointer;
+}
+.panel-content {
+    height: 0;
+    overflow: hidden;
+    z-index: -1;
+    position: relative;
+    opacity: 0;
+    -webkit-transition: 0.4s ease;
+    -moz-transition: 0.4s ease;
+    -o-transition: 0.4s ease;
+    transition: 0.4s ease;
+}
+.panel:checked ~ .panel-content {
+    height: auto;
+    opacity: 1;
+    padding: 14px;
+}
+.panel:checked ~ .plus {
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+.panel {
+    display: none;
+}
+.plus {
+    padding-left: 12px !important;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+    -webkit-transition: 0.2s ease;
+    -moz-transition: 0.2s ease;
+    -o-transition: 0.2s ease;
+    transition: 0.2s ease;
+}
+
+.panel:checked ~ .plus {
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
