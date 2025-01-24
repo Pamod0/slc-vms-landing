@@ -1,0 +1,25 @@
+{
+    "tabWidth": 4,
+    "useTabs": false,
+    "semi": true,
+    "singleQuote": true,
+    "trailingComma": "es5",
+    "printWidth": 80,
+    "bracketSpacing": true,
+    "arrowParens": "avoid",
+    "overrides": [
+        {
+            "files": "*.html",
+            "options": {
+                "printWidth": 120
+            }
+        },
+        {
+            "files": "*.php",
+            "options": {
+                "phpVersion": "8.0",
+                "tabWidth": 4
+            }
+        }
+    ]
+}
