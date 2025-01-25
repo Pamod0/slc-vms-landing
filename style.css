@@ -16,12 +16,19 @@ button {
     font-weight: 700;
     font-style: normal;
 }
+a {
+    text-decoration: none;
+}
+
+.pt-8 {
+    padding-top: 4rem !important;
+}
 
 .headings {
     text-transform: uppercase;
-    font-weight: 500;
+    font-size: 2.4rem;
     font-family: 'Lato', serif;
-    font-weight: 600;
+    font-weight: 800;
     font-style: normal;
 }
 
@@ -29,11 +36,14 @@ button {
 .hero {
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
         url(./assets/img/hero.png);
-    min-height: 540px;
+    background-size: cover;
+    background-position: center;
+    min-height: 80vh;
 }
 .hero h1 {
     color: #ffffff;
     text-transform: uppercase;
+    font-size: 3rem;
     font-weight: 700;
 }
 .hero p {
@@ -41,9 +51,15 @@ button {
     padding-right: 250px;
     color: #cccccc;
     text-align: center;
+    font-size: 1.15rem;
+    line-height: 1.5rem;
 }
 .hero button {
     color: #ffffff;
+    height: 51px;
+    font-size: 1.2rem;
+    padding-left: 1.7rem;
+    padding-right: 1.7rem;
 }
 
 /* Section 1 */
