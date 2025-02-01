@@ -33,6 +33,41 @@ a {
     font-style: normal;
 }
 
+.top-btn:hover {
+    color: #000;
+    background-color: #ffffff;
+    border-color: #ffffff;
+}
+.down-btn:hover {
+    color: #ffffff !important;
+    background-color: #034ea2;
+    border-color: #034ea2;
+}
+.down-btn:hover span {
+    color: #ffffff;
+}
+.down-btn:active {
+    color: #034ea2 !important;
+    background-color: #ffffff;
+    border-color: #034ea2;
+}
+.down-btn:active span {
+    color: #034ea2 !important;
+}
+.down-btn-1:hover {
+    color: #034ea2 !important;
+    background-color: #ffffff;
+    border-color: #ffffff;
+}
+.down-btn-1:hover span {
+    color: #034ea2;
+}
+.down-btn-1:active {
+    color: #ffffff !important;
+    background-color: #034ea2;
+    border-color: #034ea2;
+}
+
 /* Hero */
 .hero {
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
