@@ -11,6 +11,7 @@ h1,
 h2,
 h3,
 p,
+ul,
 button {
     font-family: 'Lato', serif;
     font-weight: 700;
@@ -114,7 +115,7 @@ a {
 .panel-title label {
     cursor: pointer;
 }
-.panel-content {
+/* .panel-content {
     height: 0;
     overflow: hidden;
     z-index: -1;
@@ -124,10 +125,26 @@ a {
     -moz-transition: 0.4s ease;
     -o-transition: 0.4s ease;
     transition: 0.4s ease;
+} */
+.panel-content {
+    height: 0;
+    overflow: hidden;
+    z-index: -1;
+    position: relative;
+    opacity: 0;
+    visibility: hidden; /* Hides it but still allows animations */
+    transition: opacity 0.4s ease, visibility 0.4s ease, height 0.4s ease;
 }
+/* .panel:checked ~ .panel-content {
+    height: auto;
+    opacity: 1;
+    padding: 14px;
+} */
 .panel:checked ~ .panel-content {
     height: auto;
     opacity: 1;
+    visibility: visible; /* Makes it interactable */
+    z-index: 1; /* Ensures it appears above other elements */
     padding: 14px;
 }
 .panel:checked ~ .plus {
