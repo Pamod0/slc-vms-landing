@@ -237,7 +237,8 @@
                                             All required documents must be uploaded through the online portal at
                                             <a href="http://vms.mycricket.com.lk" target="blank">vms.mycricket.com.lk</a
                                             >. If additional documents are needed, suppliers will be notified through
-                                            the system.
+                                            the system. </br>
+                                            All required documents must be uploaded and the application must be fully completed on or before 31st December 2025.
                                         </p>
                                     </div>
                                 </div>
@@ -289,6 +290,8 @@
                                     <div class="col panel-content">
                                         <p>
                                             Suppliers who are already registered with SLC for the year 2025 are, if deemed necessary, required to renew their registration for the year 2026 through the online system in order to remain eligible for enlistment as suppliers for the year 2026.
+                                            </br>
+                                            Requests for Registration/Renewal submitted after the above deadline will not be accepted
                                         </p>
                                     </div>
                                 </div>
