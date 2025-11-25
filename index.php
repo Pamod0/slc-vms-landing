@@ -58,7 +58,7 @@
                             </div>
                             <div class="col">
                                 <a
-                                    href="./assets/pdf/SRI LANKA CRICKET SUPPLIER REGISTRATION SYSTEM SUPPLIER MANUAL GUIDE TO REGISTRATION.pdf"
+                                    href="./assets/pdf/SRI LANKA CRICKET SUPPLIER REGISTRATION SYSTEM SUPPLIER MANUAL GUIDE TO REGISTRATION - 2026.pdf"
                                     download
                                 >
                                     <button type="button" class="btn btn-light down-btn down-btn-1">
@@ -79,7 +79,7 @@
                             </div>
                             <div class="col">
                                 <a
-                                    href="./assets/pdf/SRI LANKA CRICKET SUPPLIER REGISTRATION SYSTEM LIST OF CATEGORIES.pdf"
+                                    href="./assets/pdf/SRI LANKA CRICKET LIST OF CATEGORIES FOR YEAR - 2026.pdf"
                                     download
                                 >
                                     <button type="button" class="btn btn-light down-btn">
@@ -100,7 +100,7 @@
                             </div>
                             <div class="col">
                                 <a
-                                    href="./assets/pdf/SRI LANKA CRICKET SUPPLIER REGISTRATION SYSTEM TERMS AND CONDITIONS.pdf"
+                                    href="./assets/pdf/SRI LANKA CRICKET SUPPLIER REGISTRATION SYSTEM TERMS AND CONDITIONS 2026.pdf"
                                     download
                                 >
                                     <button type="button" class="btn btn-light down-btn">
@@ -121,7 +121,7 @@
                             </div>
                             <div class="col">
                                 <a
-                                    href="./assets/pdf/SRI LANKA CRICKET SUPPLIER REGISTRATION SYSTEM PRIVACY POLICY 2025.pdf"
+                                    href="./assets/pdf/SRI LANKA CRICKET SUPPLIER REGISTRATION SYSTEM PRIVACY POLICY 2026.pdf"
                                     download
                                 >
                                     <button type="button" class="btn btn-light down-btn">
@@ -211,16 +211,13 @@
                                         <p>Yes, registration fees apply as follows:</p>
                                         <ul>
                                             <li>
-                                                New Local Suppliers: Rs. 5,200.91/- per main category + Rs. 1,000/- per
-                                                subcategory + taxes.
+                                                New Suppliers – Per Main Category – Rs.7,000/- + Per Sub Category - Rs. 1,000/- + Taxes.
                                             </li>
                                             <li>
-                                                Foreign Suppliers: USD 17/- per main category + USD 3/- per subcategory
-                                                + taxes.
+                                                Foreign Suppliers - Per Main Category – USD 23/- + Per Sub Category – USD 3/- + Taxes.
                                             </li>
                                             <li>
-                                                Existing Suppliers (Renewals): Rs. 2,600.45/- per main category + Rs.
-                                                500/- per subcategory + taxes.
+                                                Existing Suppliers – Per Main Category - Rs.3,500/-+ Per Sub Category - Rs. 500/- + Taxes.
                                             </li>
                                         </ul>
                                     </div>
@@ -291,8 +288,7 @@
                                     </div>
                                     <div class="col panel-content">
                                         <p>
-                                            Yes, annual renewal is mandatory to maintain an active and updated supplier
-                                            status.
+                                            Suppliers who are already registered with SLC for the year 2025 are, if deemed necessary, required to renew their registration for the year 2026 through the online system in order to remain eligible for enlistment as suppliers for the year 2026.
                                         </p>
                                     </div>
                                 </div>
@@ -377,9 +373,9 @@
                                         <ul>
                                             <li>
                                                 Email:
-                                                <a href="mailto:info@srilankacricket.lk">info@srilankacricket.lk</a>
+                                                <a href="mailto:info@srilankacricket.lk">adminsec@srilankacricket.lk</a>
                                             </li>
-                                            <li>Call:<a href="tel:+94 112 681 6014"> +94 112 681 601-4</a></li>
+                                            <li>Call:<a href="tel:+94 112 681 6014">0112691439</a></li>
                                         </ul>
                                     </div>
                                 </div>
