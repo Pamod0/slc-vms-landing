@@ -182,7 +182,7 @@
                                         </p>
                                     </div>
                                 </div>
-                                <div class="container mb-4 p-4 faq-box">
+                                <!-- <div class="container mb-4 p-4 faq-box">
                                     <input id="q2" type="checkbox" class="panel" />
                                     <div class="col panel-title">
                                         <h3>
@@ -199,7 +199,7 @@
                                             all suppliers, including those previously registered.
                                         </p>
                                     </div>
-                                </div>
+                                </div> -->
                                 <div class="container mb-4 p-4 faq-box">
                                     <input id="q3" type="checkbox" class="panel" />
                                     <div class="col panel-title">
