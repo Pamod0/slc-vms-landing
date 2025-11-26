@@ -274,6 +274,8 @@
                                             registration. We recommend gathering softcopies of all necessary documents
                                             beforehand to ensure a smooth and efficient registration process. Incomplete
                                             applications will not be processed.
+                                            </br>
+                                            All required documents must be uploaded and the application must be fully completed on or before 31st December 2025.
                                         </p>
                                     </div>
                                 </div>
@@ -376,9 +378,9 @@
                                         <ul>
                                             <li>
                                                 Email:
-                                                <a href="mailto:info@srilankacricket.lk">adminsec@srilankacricket.lk</a>
+                                                <a href="mailto:info@srilankacricket.lk">&nbsp; &nbsp; info@srilankacricket.lk</a>&nbsp; or 
                                             </li>
-                                            <li>Call:<a href="tel:+94 112 681 6014">0112691439</a></li>
+                                            <li>Call:<a href="tel:+94 112 681 6014">&nbsp; &nbsp; 0112691439</a></li>
                                         </ul>
                                     </div>
                                 </div>
